@@ -1,0 +1,19 @@
+div{
+    background-color: orange;
+    height:100px ;
+    width: 100px; 
+}
+
+.one{
+    border: 10px solid blue;
+    padding: 100px;
+}
+
+.two{
+    border: 10px dotted orange;
+}
+
+.three{
+    border: 10px solid pink;
+    margin: 100px;
+}
